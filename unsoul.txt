@@ -1,1 +1,26 @@
-This file only use for unsoul.txt 
+ git clone https://github.com/anohossi/phoenix.git
+ls
+ls -ah phoenix/
+ls phoenix
+ls phoenix/.git/
+ls phoenix/
+cat phoenix/unsoul.txt
+git config --global user.name "Anowarul Hossian"
+git config --global user.name
+git config --global user.email “unsoul20@piit.us"
+
+git config --global user.email
+git config --list
+history
+ clear
+git status
+cd phoenix/
+nano owl.txt
+ls
+git status
+ git add owl.txt
+git status
+git commit -m “added owl.txt"
+git commit -m “added owl.txt"
+git push
+history
